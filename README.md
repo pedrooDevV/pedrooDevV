@@ -1,94 +1,69 @@
-👋 Olá, eu sou Pedro Henrique Leite Da Costa
+# 👋 Olá, eu sou Pedro Henrique Leite Da Costa
 
-Sou desenvolvedor Full Stack Java, com foco em construção de aplicações web e APIs REST, utilizando boas práticas de desenvolvimento, organização de código e versionamento com Git.
+Sou **desenvolvedor Full Stack Java**, com foco na construção de aplicações web e APIs REST, utilizando boas práticas de desenvolvimento, organização de código e versionamento com Git.
 
-🚀 Tecnologias e Conhecimentos
-Back-end (Principal)
+---
 
-Java
+## 🚀 Tecnologias e Conhecimentos
 
-Spring Boot
+### 🔧 Back-end (Principal)
+- Java  
+  - Spring Boot  
+  - Spring Security  
+  - Spring Data JPA  
+  - Hibernate  
+  - APIs REST  
+  - Bean Validation  
+  - Arquitetura em camadas  
 
-Spring Security (autenticação e autorização)
+---
 
-Spring Data JPA
+### 🗄️ Banco de Dados
+- Oracle Database  
+  - PL/SQL  
+  - Procedures, Functions e Packages  
+  - Consultas complexas e otimização  
 
-Hibernate
+- PostgreSQL  
+  - Modelagem relacional  
+  - Integração com JPA/Hibernate  
 
-Desenvolvimento de APIs REST
+---
 
-Validações com Bean Validation
+### 🎨 Front-end (Conhecimento)
+- React  
+  - Componentização  
+  - Consumo de APIs REST  
+  - Hooks  
 
-Arquitetura em camadas (Controller, Service, Repository)
+- Angular  
+  - Components, Modules e Services  
+  - Data Binding  
+  - Rotas  
+  - Consumo de APIs REST  
 
-Boas práticas e organização de código
+---
 
-Banco de Dados
+### 🛠️ Ferramentas
+- Git & GitHub  
+- Maven  
+- JSON  
+- RESTful APIs  
+- Tratamento de erros  
+- Integração entre sistemas  
 
-Oracle Database
+---
 
-PL/SQL
+## 🎓 Formação Acadêmica
+- Algoritmos e Lógica de Programação  
+- Programação Orientada a Objetos  
+- Estruturas de Dados  
+- Engenharia de Software  
+- Análise e Projeto de Sistemas  
+- Banco de Dados Relacional  
+- Desenvolvimento Web  
 
-Criação de procedures, functions e packages
+---
 
-Consultas complexas e otimização
-
-PostgreSQL
-
-Modelagem relacional
-
-Integração com JPA/Hibernate
-
-Front-end (Conhecimento)
-
-React
-
-Componentização
-
-Consumo de APIs REST
-
-Hooks e gerenciamento básico de estado
-
-Angular
-
-Components, Modules e Services
-
-Data binding
-
-Rotas
-
-Consumo de APIs REST
-
-Ferramentas e Outros
-
-Git & GitHub (versionamento e trabalho em equipe)
-
-Maven (gerenciamento de dependências)
-
-JSON
-
-RESTful APIs
-
-Tratamento de erros e validações
-
-Integração entre sistemas
-
-Formação Acadêmica
-
-Algoritmos e Lógica de Programação
-
-Programação Orientada a Objetos
-
-Estruturas de Dados
-
-Engenharia de Software
-
-Análise e Projeto de Sistemas
-
-Banco de Dados Relacional
-
-Desenvolvimento Web
-
-📌 Objetivo
-
-Busco evoluir constantemente como desenvolvedor, aprimorando meus conhecimentos tanto no back-end quanto no front-end, participando de projetos que envolvam trabalho em equipe, boas práticas e soluções reais.
+## 📌 Objetivo
+Evoluir constantemente como desenvolvedor, fortalecendo conhecimentos em **back-end** e **front-end**, participando de projetos com **boas práticas**, **trabalho em equipe** e **soluções reais**.
