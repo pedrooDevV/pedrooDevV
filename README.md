@@ -68,15 +68,10 @@ Sou **desenvolvedor Full Stack Java**, com foco na construção de aplicações 
 ## 📌 Objetivo
 Evoluir constantemente como desenvolvedor, fortalecendo conhecimentos em **back-end** e **front-end**, participando de projetos com **boas práticas**, **trabalho em equipe** e **soluções reais**.
 
-## 🧩 Projetos em Destaque
-
-### 🏢 Castiel ERP
-Sistema **ERP corporativo**, desenvolvido para atender empresas de médio e grande porte, como a **Taschibra**, com foco em organização, controle e integração de processos internos.
-
 ## 🧩 Projetos em Desenvolvimento
 
 ### 🏢 Castiel ERP
-Sistema **ERP corporativo em desenvolvimento**, voltado para empresas de médio e grande porte, como a **Taschibra**, com foco na organização, controle e integração de processos internos.
+Sistema **ERP corporativo**, desenvolvido para atender empresas de médio e grande porte, como exemplo a **Taschibra** empresa de iluminação, com foco em organização, controle e integração de processos internos.
 
 O projeto é construído com base em **APIs REST**, utilizando **Java com Spring Boot**, controle de autenticação e autorização com **Spring Security** e persistência de dados com **Spring Data JPA e Hibernate**. Possui integração com **Oracle Database**, incluindo o uso de **PL/SQL**, e segue uma **arquitetura em camadas**, priorizando escalabilidade, segurança e boas práticas de desenvolvimento.
 
@@ -86,6 +81,8 @@ O projeto é construído com base em **APIs REST**, utilizando **Java com Spring
 API **em desenvolvimento** voltada para o setor da saúde, criada para auxiliar hospitais e clínicas no **gerenciamento de doenças crônicas**, facilitando o acompanhamento de pacientes e a integração entre sistemas hospitalares.
 
 A aplicação segue o padrão **REST**, é desenvolvida em **Java com Spring Boot**, conta com validações, tratamento de erros e uma modelagem focada em confiabilidade, segurança e padronização dos dados. O projeto é estruturado para permitir fácil integração com sistemas externos e evolução contínua conforme as necessidades do setor de saúde.
+
+Além disso será implementado neste projeto o **HL7 FHIR**.
 
 ---
 
